@@ -1,7 +1,8 @@
 # e-commerce
 
 # Description
-This application is the back end for an e-commerce site used with starter code that I modified. I configured a working Express.js API to use Sequelize to interact with a MySQL database. Because this application was not deployed, I provide a links to a walkthrough videos that demonstrates its functionality.
+This application is the back end for an e-commerce site used with starter code that I modified. I configured a working Express.js API to use Sequelize to interact with a MySQL database. Because this application was not deployed, I provided links to walkthrough videos that demonstrate its functionality.
+
 
 # Table of Contents
 * [Installation](#installation)
